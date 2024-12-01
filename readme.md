@@ -43,9 +43,7 @@ Replace <username>, <password>, <hostname>, and <your_jwt_secret> with your Mong
 
 npm run build
 
-### 4. Build the Project
 
-npm run build
 
 ### 5. Start the Server
 
